@@ -1,0 +1,3 @@
+apmake: 
+	del /F *.obj
+	cl  -c a.c sub/b.c 
